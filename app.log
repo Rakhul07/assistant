@@ -4,8 +4,8 @@
 2025-08-02 08:40:03,615 - INFO - Loaded screenshot grouping time: 10s
 2025-08-02 08:40:03,615 - INFO - Loaded typing speed: 0.05s
 2025-08-02 08:40:03,733 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F7, stop: F9)
-2025-08-02 08:40:03,733 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2025-08-02 08:40:03,733 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2025-08-02 08:40:03,733 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2025-08-02 08:40:03,733 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2025-08-02 08:43:05,394 - INFO - Screenshot size: 0.19 MB
 2025-08-02 08:43:05,394 - INFO - Screenshot captured: screenshot_20250802_084305.png
 2025-08-02 08:43:05,394 - INFO - Screenshot captured
@@ -22,32 +22,32 @@
 2026-02-25 09:27:54,533 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 09:27:54,533 - INFO - Loaded typing speed: 0.05s
 2026-02-25 09:27:54,746 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 09:27:54,747 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 09:27:54,747 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:27:54,747 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:27:54,747 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 09:28:07,052 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
 2026-02-25 09:28:07,052 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-02-25 09:28:07,052 - INFO - Config loaded from: config.ini
 2026-02-25 09:28:07,052 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 09:28:07,052 - INFO - Loaded typing speed: 0.05s
 2026-02-25 09:28:07,218 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 09:28:07,218 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 09:28:07,218 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:28:07,218 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:28:07,218 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 09:32:29,384 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
 2026-02-25 09:32:29,384 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-02-25 09:32:29,384 - INFO - Config loaded from: config.ini
 2026-02-25 09:32:29,385 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 09:32:29,385 - INFO - Loaded typing speed: 0.05s
 2026-02-25 09:32:29,568 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 09:32:29,568 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 09:32:29,568 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:32:29,568 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:32:29,568 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 09:32:53,892 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
 2026-02-25 09:32:53,892 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-02-25 09:32:53,893 - INFO - Config loaded from: config.ini
 2026-02-25 09:32:53,893 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 09:32:53,893 - INFO - Loaded typing speed: 0.05s
 2026-02-25 09:32:54,100 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 09:32:54,101 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 09:32:54,101 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:32:54,101 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:32:54,101 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 09:34:16,626 - INFO - Screenshot size: 0.36 MB
 2026-02-25 09:34:16,627 - INFO - Screenshot captured: screenshot_20260225_093416.png
 2026-02-25 09:34:16,628 - INFO - Screenshot captured
@@ -82,8 +82,8 @@
 2026-02-25 09:38:53,752 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 09:38:53,752 - INFO - Loaded typing speed: 0.05s
 2026-02-25 09:38:53,941 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 09:38:53,942 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 09:38:53,942 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:38:53,942 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:38:53,942 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 09:39:11,687 - INFO - Screenshot size: 0.29 MB
 2026-02-25 09:39:11,688 - INFO - Screenshot captured: screenshot_20260225_093911.png
 2026-02-25 09:39:11,691 - INFO - Screenshot captured
@@ -118,8 +118,8 @@
 2026-02-25 09:49:22,068 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 09:49:22,069 - INFO - Loaded typing speed: 0.05s
 2026-02-25 09:49:22,272 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 09:49:22,273 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 09:49:22,273 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:49:22,273 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:49:22,273 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 09:49:42,809 - INFO - Screenshot size: 0.43 MB
 2026-02-25 09:49:42,809 - INFO - Screenshot captured: screenshot_20260225_094942.png
 2026-02-25 09:49:42,811 - INFO - Screenshot captured
@@ -146,16 +146,16 @@
 2026-02-25 12:04:34,680 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 12:04:34,680 - INFO - Loaded typing speed: 0.05s
 2026-02-25 12:04:34,856 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 12:04:34,857 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 12:04:34,857 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 12:04:34,857 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 12:04:34,857 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 12:05:08,861 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
 2026-02-25 12:05:08,862 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-02-25 12:05:08,862 - INFO - Config loaded from: config.ini
 2026-02-25 12:05:08,863 - INFO - Loaded screenshot grouping time: 10s
 2026-02-25 12:05:08,863 - INFO - Loaded typing speed: 0.05s
 2026-02-25 12:05:09,024 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-25 12:05:09,024 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-25 12:05:09,025 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 12:05:09,024 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-25 12:05:09,025 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-25 12:07:12,587 - INFO - Screenshot size: 0.13 MB
 2026-02-25 12:07:12,588 - INFO - Screenshot captured: screenshot_20260225_120712.png
 2026-02-25 12:07:12,589 - INFO - Screenshot captured
@@ -188,19 +188,19 @@
 2026-02-28 19:27:47,033 - INFO - Loaded screenshot grouping time: 10s
 2026-02-28 19:27:47,034 - INFO - Loaded typing speed: 0.05s
 2026-02-28 19:27:47,355 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-28 19:27:47,356 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-28 19:27:47,356 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-28 19:27:47,356 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-28 19:27:47,356 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-28 19:27:47,357 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-28 19:27:47,357 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-28 19:27:47,357 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-28 19:27:47,357 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-28 19:27:47,357 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-28 19:28:03,288 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
 2026-02-28 19:28:03,288 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-02-28 19:28:03,289 - INFO - Config loaded from: config.ini
 2026-02-28 19:28:03,289 - INFO - Loaded screenshot grouping time: 10s
 2026-02-28 19:28:03,289 - INFO - Loaded typing speed: 0.05s
 2026-02-28 19:28:03,467 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-02-28 19:28:03,468 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-02-28 19:28:03,468 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-28 19:28:03,468 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-02-28 19:28:03,468 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-02-28 19:31:09,684 - INFO - Screenshot size: 0.17 MB
 2026-02-28 19:31:09,685 - INFO - Screenshot captured: screenshot_20260228_193109.png
 2026-02-28 19:31:09,685 - INFO - Screenshot captured
@@ -249,8 +249,8 @@
 2026-03-02 11:35:26,332 - INFO - Loaded screenshot grouping time: 10s
 2026-03-02 11:35:26,333 - INFO - Loaded typing speed: 0.05s
 2026-03-02 11:35:26,505 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
-2026-03-02 11:35:26,506 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-02 11:35:26,507 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-02 11:35:26,506 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-02 11:35:26,507 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-02 11:37:29,261 - INFO - Screenshot size: 0.14 MB
 2026-03-02 11:37:29,261 - INFO - Screenshot captured: screenshot_20260302_113729.png
 2026-03-02 11:37:29,262 - INFO - Screenshot captured
@@ -278,8 +278,8 @@
 2026-03-07 09:47:24,112 - INFO - Loaded screenshot grouping time: 10s
 2026-03-07 09:47:24,112 - INFO - Loaded typing speed: 0.05s
 2026-03-07 09:47:24,198 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, speed_cycle: F2)
-2026-03-07 09:47:24,198 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-07 09:47:24,198 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-07 09:47:24,198 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-07 09:47:24,198 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-07 09:51:57,565 - INFO - Screenshot size: 0.24 MB
 2026-03-07 09:51:57,566 - INFO - Screenshot captured: screenshot_20260307_095157.png
 2026-03-07 09:51:57,567 - INFO - Screenshot captured
@@ -376,8 +376,8 @@
 2026-03-07 10:08:40,540 - INFO - Loaded screenshot grouping time: 10s
 2026-03-07 10:08:40,540 - INFO - Loaded typing speed: 0.05s
 2026-03-07 10:08:40,612 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, speed_cycle: F2)
-2026-03-07 10:08:40,612 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-07 10:08:40,612 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-07 10:08:40,612 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-07 10:08:40,612 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-07 10:11:49,194 - INFO - Screenshot size: 0.24 MB
 2026-03-07 10:11:49,194 - INFO - Screenshot captured: screenshot_20260307_101149.png
 2026-03-07 10:11:49,196 - INFO - Screenshot captured
@@ -406,8 +406,8 @@
 2026-03-07 10:30:26,641 - INFO - Loaded screenshot grouping time: 10s
 2026-03-07 10:30:26,641 - INFO - Loaded typing speed: 0.05s
 2026-03-07 10:30:26,721 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, speed_cycle: F2)
-2026-03-07 10:30:26,721 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-07 10:30:26,721 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-07 10:30:26,721 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-07 10:30:26,721 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-07 10:32:49,940 - INFO - Screenshot size: 0.16 MB
 2026-03-07 10:32:49,940 - INFO - Screenshot captured: screenshot_20260307_103249.png
 2026-03-07 10:32:49,941 - INFO - Screenshot captured
@@ -423,24 +423,24 @@
 2026-03-09 11:42:23,168 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 11:42:23,168 - INFO - Loaded typing speed: 0.05s
 2026-03-09 11:42:23,226 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 11:42:23,226 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 11:42:23,226 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 11:42:23,226 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 11:42:23,226 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 11:42:31,573 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
 2026-03-09 11:42:31,573 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-03-09 11:42:31,573 - INFO - Config loaded from: config.ini
 2026-03-09 11:42:31,573 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 11:42:31,573 - INFO - Loaded typing speed: 0.05s
 2026-03-09 11:42:31,632 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 11:42:31,632 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 11:42:31,632 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 11:42:31,632 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 11:42:31,632 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 11:43:11,064 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
 2026-03-09 11:43:11,074 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-03-09 11:43:11,074 - INFO - Config loaded from: config.ini
 2026-03-09 11:43:11,074 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 11:43:11,074 - INFO - Loaded typing speed: 0.05s
 2026-03-09 11:43:11,126 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 11:43:11,126 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 11:43:11,126 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 11:43:11,126 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 11:43:11,126 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 11:55:47,458 - INFO - Screenshot size: 0.24 MB
 2026-03-09 11:55:47,458 - INFO - Screenshot captured: screenshot_20260309_115547.png
 2026-03-09 11:55:47,458 - INFO - Screenshot captured
@@ -464,24 +464,24 @@
 2026-03-09 12:03:44,755 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 12:03:44,755 - INFO - Loaded typing speed: 0.05s
 2026-03-09 12:03:44,820 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 12:03:44,821 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 12:03:44,821 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:03:44,821 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:03:44,821 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 12:05:10,802 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
 2026-03-09 12:05:10,802 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-03-09 12:05:10,802 - INFO - Config loaded from: config.ini
 2026-03-09 12:05:10,802 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 12:05:10,803 - INFO - Loaded typing speed: 0.05s
 2026-03-09 12:05:10,882 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 12:05:10,883 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 12:05:10,883 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:05:10,883 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:05:10,883 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 12:08:50,815 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
 2026-03-09 12:08:50,815 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
 2026-03-09 12:08:50,815 - INFO - Config loaded from: config.ini
 2026-03-09 12:08:50,815 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 12:08:50,815 - INFO - Loaded typing speed: 0.05s
 2026-03-09 12:08:50,881 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 12:08:50,881 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 12:08:50,881 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:08:50,881 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:08:50,881 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 12:11:22,339 - INFO - Screenshot size: 0.20 MB
 2026-03-09 12:11:22,339 - INFO - Screenshot captured: screenshot_20260309_121122.png
 2026-03-09 12:11:22,339 - INFO - Screenshot captured
@@ -501,8 +501,8 @@
 2026-03-09 12:19:45,630 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 12:19:45,630 - INFO - Loaded typing speed: 0.05s
 2026-03-09 12:19:45,678 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 12:19:45,678 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 12:19:45,678 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:19:45,678 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:19:45,678 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 12:20:47,668 - INFO - Screenshot size: 0.18 MB
 2026-03-09 12:20:47,668 - INFO - Screenshot captured: screenshot_20260309_122047.png
 2026-03-09 12:20:47,668 - INFO - Screenshot captured
@@ -522,8 +522,8 @@
 2026-03-09 13:08:57,928 - INFO - Loaded screenshot grouping time: 10s
 2026-03-09 13:08:57,928 - INFO - Loaded typing speed: 0.05s
 2026-03-09 13:08:57,991 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-03-09 13:08:57,991 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-03-09 13:08:57,991 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 13:08:57,991 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-03-09 13:08:57,991 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-03-09 13:10:06,153 - INFO - Screenshot size: 0.31 MB
 2026-03-09 13:10:06,153 - INFO - Screenshot captured: screenshot_20260309_131006.png
 2026-03-09 13:10:06,153 - INFO - Screenshot captured
@@ -547,8 +547,8 @@
 2026-06-15 18:46:31,399 - INFO - Loaded screenshot grouping time: 10s
 2026-06-15 18:46:31,399 - INFO - Loaded typing speed: 0.05s
 2026-06-15 18:46:31,576 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-06-15 18:46:31,576 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-06-15 18:46:31,576 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-06-15 18:46:31,576 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-06-15 18:46:31,576 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-06-15 18:46:42,929 - INFO - Screenshot size: 0.27 MB
 2026-06-15 18:46:42,929 - INFO - Screenshot captured: screenshot_20260615_184642.png
 2026-06-15 18:46:42,929 - INFO - Screenshot captured
@@ -624,8 +624,8 @@
 2026-06-15 18:49:07,039 - INFO - Loaded screenshot grouping time: 10s
 2026-06-15 18:49:07,039 - INFO - Loaded typing speed: 0.05s
 2026-06-15 18:49:07,171 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-06-15 18:49:07,171 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-06-15 18:49:07,171 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-06-15 18:49:07,171 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-06-15 18:49:07,171 - INFO - taskhostw running in background. Press Ctrl+C to exit.
 2026-06-15 18:49:26,224 - INFO - Screenshot size: 0.27 MB
 2026-06-15 18:49:26,225 - INFO - Screenshot captured: screenshot_20260615_184926.png
 2026-06-15 18:49:26,225 - INFO - Screenshot captured
@@ -651,5 +651,81 @@
 2026-06-15 18:57:51,002 - INFO - Loaded screenshot grouping time: 10s
 2026-06-15 18:57:51,002 - INFO - Loaded typing speed: 0.05s
 2026-06-15 18:57:51,165 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
-2026-06-15 18:57:51,166 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
-2026-06-15 18:57:51,166 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-06-15 18:57:51,166 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-06-15 18:57:51,166 - INFO - taskhostw running in background. Press Ctrl+C to exit.
+2026-07-01 11:49:03,942 - INFO - Loaded 4 API key(s)
+2026-07-01 11:49:03,943 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-07-01 11:49:03,943 - INFO - Config loaded from: config.ini
+2026-07-01 11:49:03,943 - INFO - Loaded screenshot grouping time: 10s
+2026-07-01 11:49:03,943 - INFO - Loaded typing speed: 0.05s
+2026-07-01 11:49:04,221 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-07-01 11:49:04,222 - INFO - taskhostw started (no GUI mode). Use hotkeys to control.
+2026-07-01 11:49:04,222 - INFO - taskhostw running in background. Press Ctrl+C to exit.
+2026-07-01 11:50:33,774 - INFO - Loaded 4 API key(s)
+2026-07-01 11:50:33,775 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-07-01 11:50:33,775 - INFO - Config loaded from: config.ini
+2026-07-01 11:50:33,775 - INFO - Loaded screenshot grouping time: 10s
+2026-07-01 11:50:33,775 - INFO - Loaded typing speed: 0.05s
+2026-07-01 11:50:34,069 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-07-01 11:50:34,070 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-07-01 11:50:34,070 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-07-01 11:50:42,466 - INFO - Screenshot size: 0.15 MB
+2026-07-01 11:50:42,466 - INFO - Screenshot captured: screenshot_20260701_115042.png
+2026-07-01 11:50:42,467 - INFO - Screenshot captured
+2026-07-01 11:50:42,479 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-07-01 11:50:52,499 - INFO - Grouping timer expired. Sending 1 screenshot(s) to API...
+2026-07-01 11:50:52,500 - INFO - Sending 1 screenshots to Gemini API
+2026-07-01 11:50:54,826 - ERROR - API request failed with key index 0: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Your API key was reported as leaked. Please use another API key.",
+    "status": "PERMISSION_DENIED"
+  }
+}
+
+2026-07-01 11:50:54,826 - INFO - Switching to next API key (index 1) and retrying...
+2026-07-01 11:50:56,947 - ERROR - API request failed with key index 1: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Your API key was reported as leaked. Please use another API key.",
+    "status": "PERMISSION_DENIED"
+  }
+}
+
+2026-07-01 11:50:56,948 - INFO - Switching to next API key (index 2) and retrying...
+2026-07-01 11:50:59,334 - ERROR - API request failed with key index 2: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Your API key was reported as leaked. Please use another API key.",
+    "status": "PERMISSION_DENIED"
+  }
+}
+
+2026-07-01 11:50:59,334 - INFO - Switching to next API key (index 3) and retrying...
+2026-07-01 11:51:01,586 - ERROR - API request failed with key index 3: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Your API key was reported as leaked. Please use another API key.",
+    "status": "PERMISSION_DENIED"
+  }
+}
+
+2026-07-01 11:51:01,586 - INFO - Switching to next API key (index 0) and retrying...
+2026-07-01 11:51:01,586 - ERROR - All API keys failed or exhausted for this request.
+2026-07-01 11:53:55,804 - INFO - Loaded 4 API key(s)
+2026-07-01 11:53:55,804 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-07-01 11:53:55,805 - INFO - Config loaded from: config.ini
+2026-07-01 11:53:55,805 - INFO - Loaded screenshot grouping time: 10s
+2026-07-01 11:53:55,805 - INFO - Loaded typing speed: 0.05s
+2026-07-01 11:53:56,223 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-07-01 11:53:56,223 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-07-01 11:53:56,223 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-07-01 11:54:03,341 - INFO - Screenshot size: 0.16 MB
+2026-07-01 11:54:03,341 - INFO - Screenshot captured: screenshot_20260701_115403.png
+2026-07-01 11:54:03,341 - INFO - Screenshot captured
+2026-07-01 11:54:03,355 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-07-01 11:54:13,366 - INFO - Grouping timer expired. Sending 1 screenshot(s) to API...
+2026-07-01 11:54:13,366 - INFO - Sending 1 screenshots to Gemini API
+2026-07-01 11:54:28,952 - INFO - Successfully received response from Gemini API using key index 0
+2026-07-01 11:54:28,952 - INFO - Gemini API response received. Auto-typing...
+2026-07-01 11:54:34,182 - INFO - Auto-typing paused
